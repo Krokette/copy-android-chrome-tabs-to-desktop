@@ -11,7 +11,7 @@ From time to time I do need to *sync* my tabs from my phone (Android) to my Desk
  **Part of the steps below are explained [there](https://maemol.github.io/2019-04-15-Android-Export-chrome-tabs/)**
  
  1. Go to the Remote Devices of Chrome (full explanation [here](https://maemol.github.io/2019-04-15-Android-Export-chrome-tabs/))  
- *Go to [chrome://inspect/#devices ](chrome://inspect/#devices) 
+ *Go to `<chrome://inspect/#devices>`
   or  press  ctrl+maj+j or F12 to open developer pane then go to the 3 dots => more tools => remote devices*
 
 2. When you are on the script part, use this script instead 
