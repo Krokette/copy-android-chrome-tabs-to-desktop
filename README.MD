@@ -14,7 +14,7 @@ From time to time I do need to *sync* my tabs from my phone (Android) to my Desk
  *Go to `chrome://inspect/#devices`
   or  press  `ctrl+shift+j` or `F12` to open developer pane then go to the `3 dots` → `more tools` → `remote devices`*
 
-2. When you are on the script part, use this script instead 
+2. When you are on the script part, use this script (instead of the script mentionned in the article linked above, if you did read it)
 
 ``` js
 var tabsNodes = document.querySelectorAll('.browser>.list.pages>.row')
