@@ -1,9 +1,9 @@
-## What even is this?
+## What?
 This allows to extract urls from the url page of [**Remote Devices**](chrome://inspect/#devices)       (chrome://inspect/#devices) for Chrome  and copy it to your clipboard.
 I can then import them in a Chrome's backup tabs extension ( I use [*Session Buddy*](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) ).
 
 
-## Why tho?
+## Why?
 From time to time I do need to *sync* my tabs from my phone (Android) to my Desktop and this is not really feasible even with the "tabs from other devices" features of chrome which is not very accurate or sync in real time.
 
 
